@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1399366681307
+Build-Jdk: 1.7.0_51
+Built-By: leminhquan
+Bundle-Activator: org.wiperdog.demo_paxexam_bundle_test.internal.Activat
+ or
+Bundle-ManifestVersion: 2
+Bundle-Name: demo_paxexam_bundle_test
+Bundle-SymbolicName: org.wiperdog.demo_paxexam_bundle_test
+Bundle-Version: 1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.wiperdog.demo_paxexam_bundle_test;version="1.0"
+Import-Package: org.osgi.framework;version="[1.5,2)",org.wiperdog.demo_p
+ axexam_bundle_test;version="[1.0,2)"
+Tool: Bnd-2.1.0.20130426-122213
